@@ -20,10 +20,11 @@
 
 1. Acesse o [Bitly](https://bitly.com/) e crie uma conta;
 2. Após criar uma conta e ter realizado a vericação de e-mail, pegue seu Token da plataforma;
-3. Baixe o projeto e insira o seu Token no seguinte campo do "App.Config":
+3. Baixe o projeto e insira o seu Token no seguinte campo do "App.Config": <br/>
 ![pmetodos](https://raw.githubusercontent.com/Edssaac/Encurtador-de-Links-CSharp/main/images/appconfig.png)
 
 4. Se deseja trabalhar com listas de links transmitidas por arquivos de texto, então modifique a seguinte parte do "frmEncurtador" : 
+
 ![pmetodos](https://raw.githubusercontent.com/Edssaac/Encurtador-de-Links-CSharp/main/images/frmencurtador.png)
 
 5. Salve as alterações e bom uso :)
