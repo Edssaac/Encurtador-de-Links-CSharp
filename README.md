@@ -21,9 +21,9 @@
 1. Acesse o [Bitly](https://bitly.com/) e crie uma conta;
 2. Após criar uma conta e ter realizado a vericação de e-mail, pegue seu Token da plataforma;
 3. Baixe o projeto e insira o seu Token no seguinte campo do "App.Config":
-<img src="https://raw.githubusercontent.com/Edssaac/Encurtador-de-Links-CSharp/main/images/appconfig.png" alt="appconfig" width="1039" height="318"/>
+![pmetodos](https://raw.githubusercontent.com/Edssaac/Encurtador-de-Links-CSharp/main/images/appconfig.png)
 
 4. Se deseja trabalhar com listas de links transmitidas por arquivos de texto, então modifique a seguinte parte do "frmEncurtador" : 
-<img src="https://raw.githubusercontent.com/Edssaac/Encurtador-de-Links-CSharp/main/images/frmencurtador.png" alt="appconfig" width="1156" height="163"/>
+![pmetodos](https://raw.githubusercontent.com/Edssaac/Encurtador-de-Links-CSharp/main/images/frmencurtador.png)
 
 5. Salve as alterações e bom uso :)
