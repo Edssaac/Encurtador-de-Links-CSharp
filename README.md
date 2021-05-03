@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Edssaac/Encurtador-de-Links-CSharp/main/images/encurtador.png" alt="encurtador" width="511" height="441"/>
+    <img src="https://raw.githubusercontent.com/Edssaac/Encurtador-de-Links-CSharp/main/images/encurtador.png" alt="encurtador" width="60%" height="100%"/>
 </p>
 
 <p>
